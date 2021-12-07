@@ -1,4 +1,8 @@
-Requirement for Test 2
+# SauceDemo UI Automation testing using Cypress
+
+This project is a demo project which demonstrates SauceDemo UI automation with Javascript([Cypress](https://www.cypress.io/) 
+
+Requirement for Test Exercise 2 -- UI automation
 ---
 ## Implement a test to verify the following user journey
 
