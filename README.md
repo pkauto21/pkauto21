@@ -21,15 +21,17 @@ Requirement for Test Exercise 2 -- UI automation
 * A README.md file explaining the framework briefly and how to run the tests, what you need installed
 * Pushed to GitHub for review
 
+Precondition
+---
 
-Git Repo Cloning
+Steps
 ---
 ```bash
 ## clone this repo to a local directory
 git clone https://github.com/pkauto21/GlobalTest2-cypress.git
 
 ## cd into the cloned repo
-cd exercise2-cypress
+cd GlobalTest2-cypress
 
 ## install the node_modules
 npm install
@@ -38,7 +40,7 @@ npm install
 npm start
 ```
 
-The `npm start` script will spawn a webserver on port `8080` which hosts the Kitchen Sink App.
+The `npm start` script will spawn a webserver on port `8080` which hosts App.
 
 You can verify this by opening your browser and navigating to: [`http://localhost:8080`](http://localhost:8080)
 
