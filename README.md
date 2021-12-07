@@ -3,7 +3,7 @@
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/exercise2-cypress.git
+git clone https://github.com/pkauto21/GlobalTest2-cypress.git
 
 ## cd into the cloned repo
 cd exercise2-cypress
